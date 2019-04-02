@@ -1,0 +1,20 @@
+.heading {
+    background-image: url();
+    background-color: black;
+    height: 200px;
+    width: 100%;
+}
+
+#navTopList {
+    color: white;
+    display: flex;
+    flex-direction: row-reverse;
+    align-content: space-around;
+}
+
+.navLi {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
